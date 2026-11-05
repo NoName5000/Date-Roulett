@@ -1,0 +1,216 @@
+{
+  "version": 1,
+  "categories": [
+    {
+      "id": "cat-draussen",
+      "name": "Draußen",
+      "emoji": "🌳",
+      "seasons": [],
+      "weather": [
+        "sonnig",
+        "bewoelkt"
+      ],
+      "temps": [
+        "mild",
+        "warm"
+      ],
+      "updatedAt": 1793860880791,
+      "deleted": false
+    },
+    {
+      "id": "cat-drinnen",
+      "name": "Gemütlich drinnen",
+      "emoji": "🛋️",
+      "seasons": [],
+      "weather": [
+        "regnerisch",
+        "schnee"
+      ],
+      "temps": [],
+      "updatedAt": 1793860880791,
+      "deleted": false
+    },
+    {
+      "id": "cat-sommer",
+      "name": "Sommer & Hitze",
+      "emoji": "🏖️",
+      "seasons": [
+        "sommer"
+      ],
+      "weather": [
+        "sonnig"
+      ],
+      "temps": [
+        "warm"
+      ],
+      "updatedAt": 1793860880791,
+      "deleted": false
+    },
+    {
+      "id": "cat-ueberall",
+      "name": "Überall",
+      "emoji": "💞",
+      "seasons": [],
+      "weather": [],
+      "temps": [],
+      "updatedAt": 1793860880791,
+      "deleted": false
+    },
+    {
+      "id": "cat-winter",
+      "name": "Winter & Kälte",
+      "emoji": "⛄",
+      "seasons": [
+        "winter"
+      ],
+      "weather": [],
+      "temps": [
+        "kalt"
+      ],
+      "updatedAt": 1793860880791,
+      "deleted": false
+    }
+  ],
+  "ideas": [
+    {
+      "id": "hnvcc02bns0",
+      "title": "Zusammen kochen",
+      "description": "Neues Rezept aussuchen, gemeinsam einkaufen und kochen.",
+      "categoryId": "cat-ueberall",
+      "locationName": "",
+      "locationQuery": "",
+      "cost": null,
+      "durationMin": null,
+      "done": false,
+      "doneAt": null,
+      "updatedAt": 1793860927412,
+      "deleted": false
+    },
+    {
+      "id": "hnvcc02bzm1",
+      "title": "Spieleabend",
+      "description": "",
+      "categoryId": "cat-ueberall",
+      "locationName": "",
+      "locationQuery": "",
+      "cost": null,
+      "durationMin": null,
+      "done": false,
+      "doneAt": null,
+      "updatedAt": 1793860946758,
+      "deleted": false
+    },
+    {
+      "id": "hnvcc02c6k2",
+      "title": "Picknick im Park",
+      "description": "Decke, Snacks und etwas zu trinken einpacken.",
+      "categoryId": "cat-draussen",
+      "locationName": "",
+      "locationQuery": "",
+      "cost": null,
+      "durationMin": null,
+      "done": false,
+      "doneAt": null,
+      "updatedAt": 1793860927412,
+      "deleted": false
+    },
+    {
+      "id": "hnvcc02cdk3",
+      "title": "Spaziergang mit Eis",
+      "description": "",
+      "categoryId": "cat-draussen",
+      "locationName": "",
+      "locationQuery": "",
+      "cost": null,
+      "durationMin": null,
+      "done": false,
+      "doneAt": null,
+      "updatedAt": 1793860927413,
+      "deleted": false
+    },
+    {
+      "id": "hnvcc02cm34",
+      "title": "Baden am See",
+      "description": "",
+      "categoryId": "cat-sommer",
+      "locationName": "",
+      "locationQuery": "",
+      "cost": null,
+      "durationMin": null,
+      "done": false,
+      "doneAt": null,
+      "updatedAt": 1793860927413,
+      "deleted": false
+    },
+    {
+      "id": "hnvcc02ctx5",
+      "title": "Open-Air-Kino",
+      "description": "",
+      "categoryId": "cat-sommer",
+      "locationName": "",
+      "locationQuery": "",
+      "cost": null,
+      "durationMin": null,
+      "done": false,
+      "doneAt": null,
+      "updatedAt": 1793860927413,
+      "deleted": false
+    },
+    {
+      "id": "hnvcc02d3h6",
+      "title": "Kino-Marathon auf dem Sofa",
+      "description": "",
+      "categoryId": "cat-drinnen",
+      "locationName": "",
+      "locationQuery": "",
+      "cost": null,
+      "durationMin": null,
+      "done": false,
+      "doneAt": null,
+      "updatedAt": 1793860927413,
+      "deleted": false
+    },
+    {
+      "id": "hnvcc02dcm7",
+      "title": "Zusammen backen",
+      "description": "",
+      "categoryId": "cat-drinnen",
+      "locationName": "",
+      "locationQuery": "",
+      "cost": null,
+      "durationMin": null,
+      "done": false,
+      "doneAt": null,
+      "updatedAt": 1793860927414,
+      "deleted": false
+    },
+    {
+      "id": "hnvcc02dn58",
+      "title": "Schlittschuhlaufen",
+      "description": "",
+      "categoryId": "cat-winter",
+      "locationName": "",
+      "locationQuery": "",
+      "cost": null,
+      "durationMin": null,
+      "done": false,
+      "doneAt": null,
+      "updatedAt": 1793860927414,
+      "deleted": false
+    },
+    {
+      "id": "hnvcc02dyh9",
+      "title": "Glühwein auf dem Weihnachtsmarkt",
+      "description": "",
+      "categoryId": "cat-winter",
+      "locationName": "",
+      "locationQuery": "",
+      "cost": null,
+      "durationMin": null,
+      "done": false,
+      "doneAt": null,
+      "updatedAt": 1793860927415,
+      "deleted": false
+    }
+  ]
+}
